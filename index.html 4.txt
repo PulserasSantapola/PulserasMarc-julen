@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pulseras Marc & Julen</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: linear-gradient(to right, #ffe59e, #ffcc70);
+      text-align: center;
+      padding: 20px;
+    }
+    h1 {
+      color: #d97706;
+      font-size: 3em;
+    }
+    h2 {
+      color: #6d28d9;
+      font-size: 1.5em;
+      margin-bottom: 40px;
+    }
+    .producto {
+      display: inline-block;
+      background-color: white;
+      border-radius: 15px;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+      width: 250px;
+      margin: 15px;
+      padding: 15px;
+      vertical-align: top;
+    }
+    .producto img {
+      width: 100%;
+      height: 180px;
+      object-fit: cover;
+      border-radius: 10px;
+    }
+    .titulo {
+      font-weight: bold;
+      font-size: 1.1em;
+      margin-top: 10px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Pulseras Marc & Julen</h1>
+  <h2>Hechas a mano en Santa Pola 🌞</h2>
+
+  <div class="producto">
+    <img src="E09D9572-C148-4F81-93A5-C44337FE8D11.jpeg" alt="Pulsera de gomitas multicolor">
+    <div class="titulo">Pulsera de gomitas – 1€</div>
+  </div>
+
+  <div class="producto">
+    <img src="D50F236E-D8EE-4E70-BB5C-D4C3EA719DE3.jpeg" alt="Collar de gomitas">
+    <div class="titulo">Collar de gomitas – 1,50€</div>
+  </div>
+
+  <div class="producto">
+    <img src="11B7D44B-D517-45C3-A2FB-23B2D1F88266.jpeg" alt="Pulseras de hilos trenzados">
+    <div class="titulo">Pulsera de cuerda – 1€</div>
+  </div>
+
+  <div class="producto">
+    <img src="89EE2F2E-E45E-4610-BACB-7A8DFC8CEA60.jpeg" alt="Pulsera pop-it">
+    <div class="titulo">Pulsera pop-it – 1€</div>
+  </div>
+
+  <div class="producto">
+    <img src="D6C60868-0F9D-4029-A115-CE559C2254BD.jpeg" alt="Pulseras con bolitas de colores">
+    <div class="titulo">Pulsera con avalorios – 1€</div>
+  </div>
+
+</body>
+</html>
